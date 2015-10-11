@@ -1,0 +1,730 @@
+{
+    "name": "moztn",
+    "children": [
+        {
+            "name": "EspritDuMobile",
+            "children": [
+                {
+                    "name": "EspritDuMobile",
+                    "size": "2952"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "1"
+                },
+                {
+                    "name": "stars",
+                    "size": "1"
+                }
+            ]
+        },
+        {
+            "name": "www-arabicmoz",
+            "children": [
+                {
+                    "name": "www-arabicmoz",
+                    "size": "6295"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "1"
+                },
+                {
+                    "name": "watchers",
+                    "size": "2"
+                },
+                {
+                    "name": "stars",
+                    "size": "2"
+                }
+            ]
+        },
+        {
+            "name": "HTML5-Game-Dev-Days",
+            "children": [
+                {
+                    "name": "HTML5-Game-Dev-Days",
+                    "size": "4205"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "1"
+                },
+                {
+                    "name": "watchers",
+                    "size": "2"
+                },
+                {
+                    "name": "stars",
+                    "size": "2"
+                }
+            ]
+        },
+        {
+            "name": "moztnbot",
+            "children": [
+                {
+                    "name": "moztnbot",
+                    "size": "208"
+                },
+                {
+                    "name": "issues",
+                    "size": "4"
+                },
+                {
+                    "name": "forks",
+                    "size": "7"
+                },
+                {
+                    "name": "watchers",
+                    "size": "3"
+                },
+                {
+                    "name": "stars",
+                    "size": "3"
+                }
+            ]
+        },
+        {
+            "name": "mozTnCommunity",
+            "children": [
+                {
+                    "name": "mozTnCommunity",
+                    "size": "6720"
+                },
+                {
+                    "name": "issues",
+                    "size": "2"
+                },
+                {
+                    "name": "forks",
+                    "size": "2"
+                },
+                {
+                    "name": "watchers",
+                    "size": "3"
+                },
+                {
+                    "name": "stars",
+                    "size": "3"
+                }
+            ]
+        },
+        {
+            "name": "reps-4-B2G",
+            "children": [
+                {
+                    "name": "reps-4-B2G",
+                    "size": "400"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "www-OneMozilla",
+            "children": [
+                {
+                    "name": "www-OneMozilla",
+                    "size": "872"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "reveal.js",
+            "children": [
+                {
+                    "name": "reveal.js",
+                    "size": "23588"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "1"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "Contribute-Tab",
+            "children": [
+                {
+                    "name": "Contribute-Tab",
+                    "size": "1121"
+                },
+                {
+                    "name": "issues",
+                    "size": "3"
+                },
+                {
+                    "name": "forks",
+                    "size": "6"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "firefoxOS-prez",
+            "children": [
+                {
+                    "name": "firefoxOS-prez",
+                    "size": "2395"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "2"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "firefoxOSAppDay-Slides",
+            "children": [
+                {
+                    "name": "firefoxOSAppDay-Slides",
+                    "size": "788"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "firefoxosappday",
+            "children": [
+                {
+                    "name": "firefoxosappday",
+                    "size": "418"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "slides-moztn",
+            "children": [
+                {
+                    "name": "slides-moztn",
+                    "size": "55623"
+                },
+                {
+                    "name": "issues",
+                    "size": "13"
+                },
+                {
+                    "name": "forks",
+                    "size": "12"
+                },
+                {
+                    "name": "watchers",
+                    "size": "7"
+                },
+                {
+                    "name": "stars",
+                    "size": "7"
+                }
+            ]
+        },
+        {
+            "name": "SFD-2013-Slides",
+            "children": [
+                {
+                    "name": "SFD-2013-Slides",
+                    "size": "4920"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "1"
+                },
+                {
+                    "name": "stars",
+                    "size": "1"
+                }
+            ]
+        },
+        {
+            "name": "SummerEngagement",
+            "children": [
+                {
+                    "name": "SummerEngagement",
+                    "size": "1155"
+                },
+                {
+                    "name": "issues",
+                    "size": "1"
+                },
+                {
+                    "name": "forks",
+                    "size": "2"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "GrowMozillaApp",
+            "children": [
+                {
+                    "name": "GrowMozillaApp",
+                    "size": "153"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "1"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "ArabicMozilla-Slides",
+            "children": [
+                {
+                    "name": "ArabicMozilla-Slides",
+                    "size": "5420"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "moztn-home-page",
+            "children": [
+                {
+                    "name": "moztn-home-page",
+                    "size": "5876"
+                },
+                {
+                    "name": "issues",
+                    "size": "5"
+                },
+                {
+                    "name": "forks",
+                    "size": "4"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "styleguide",
+            "children": [
+                {
+                    "name": "styleguide",
+                    "size": "5140"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "4"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "Moztn-WebSite-Overview",
+            "children": [
+                {
+                    "name": "Moztn-WebSite-Overview",
+                    "size": "222"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "2"
+                },
+                {
+                    "name": "watchers",
+                    "size": "1"
+                },
+                {
+                    "name": "stars",
+                    "size": "1"
+                }
+            ]
+        },
+        {
+            "name": "Join_Us",
+            "children": [
+                {
+                    "name": "Join_Us",
+                    "size": "172"
+                },
+                {
+                    "name": "issues",
+                    "size": "2"
+                },
+                {
+                    "name": "forks",
+                    "size": "1"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "Ressources",
+            "children": [
+                {
+                    "name": "Ressources",
+                    "size": "580"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "2"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "Contribute",
+            "children": [
+                {
+                    "name": "Contribute",
+                    "size": "272"
+                },
+                {
+                    "name": "issues",
+                    "size": "1"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "www-moztn",
+            "children": [
+                {
+                    "name": "www-moztn",
+                    "size": "5350"
+                },
+                {
+                    "name": "issues",
+                    "size": "6"
+                },
+                {
+                    "name": "forks",
+                    "size": "8"
+                },
+                {
+                    "name": "watchers",
+                    "size": "6"
+                },
+                {
+                    "name": "stars",
+                    "size": "6"
+                }
+            ]
+        },
+        {
+            "name": "join",
+            "children": [
+                {
+                    "name": "join",
+                    "size": "1203"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "3"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "moztn.github.com",
+            "children": [
+                {
+                    "name": "moztn.github.com",
+                    "size": "720"
+                },
+                {
+                    "name": "issues",
+                    "size": "2"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "gh-proxy-api",
+            "children": [
+                {
+                    "name": "gh-proxy-api",
+                    "size": "132"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        },
+        {
+            "name": "FirePress",
+            "children": [
+                {
+                    "name": "FirePress",
+                    "size": "104"
+                },
+                {
+                    "name": "issues",
+                    "size": "3"
+                },
+                {
+                    "name": "forks",
+                    "size": "1"
+                },
+                {
+                    "name": "watchers",
+                    "size": "1"
+                },
+                {
+                    "name": "stars",
+                    "size": "1"
+                }
+            ]
+        },
+        {
+            "name": "CodeOfConduct",
+            "children": [
+                {
+                    "name": "CodeOfConduct",
+                    "size": "0"
+                },
+                {
+                    "name": "issues",
+                    "size": "0"
+                },
+                {
+                    "name": "forks",
+                    "size": "0"
+                },
+                {
+                    "name": "watchers",
+                    "size": "0"
+                },
+                {
+                    "name": "stars",
+                    "size": "0"
+                }
+            ]
+        }
+    ]
+}
